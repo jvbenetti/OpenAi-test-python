@@ -1,4 +1,2 @@
-# OpenAi-test-python
-
-
-(Teste parado, tokens pagos necessários)
+# (Teste parado, tokens pagos necessários)
+....
